@@ -11,3 +11,8 @@ print ("February 16, 2002");
 print ("Marinduque State College");
 print ("Bachelor of Science in Information Technology");
 print ("BSI/T-2B")
+print ("Playing Badminton");
+print ("Playing Volleyball");
+print ("Dancing");
+print ("Singing");
+print ("Watching Horror movie like Zombie");
